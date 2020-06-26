@@ -3383,8 +3383,6 @@ MonoBehaviour:
   delay: 0
   animator: {fileID: 1644305135}
   trigger: AttemptTake
-<<<<<<< HEAD
-=======
 --- !u!1 &1310339498
 GameObject:
   m_ObjectHideFlags: 0
@@ -3490,12 +3488,11 @@ Transform:
   m_GameObject: {fileID: 1310339498}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.5627477, y: 12.43, z: 2.6}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalScale: {x: 50, y: 20, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> 5c52d2912f666083077fc4fcaa9ee16e4830b21b
 --- !u!114 &1315678196
 MonoBehaviour:
   m_ObjectHideFlags: 0
